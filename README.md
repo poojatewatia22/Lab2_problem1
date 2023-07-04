@@ -1,1 +1,1 @@
-#Graded Lab 2 - Algorithms 
+Graded Lab 2 - Algorithms 
